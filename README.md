@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MadsMillsEloise
-- 👀 I’m interested in learning Swift
-- 🌱 I’m currently learning nothing, yet!
-- 💞️ I’m looking to collaborate on iOS, and macOS development
+- 👀 I’m interested in learning JavaScript
+- 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me jonathan.w.johnson91@gmail.com
 
 <!---
